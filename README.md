@@ -1,1 +1,6 @@
 # Bee-Friendly-Plants
+Source: [DataCamp Competition Bee Friendly Plants](https://app.datacamp.com/learn/competitions/bee-friendly-plants)
+
+The local government environment agency aims to create pollinator bee-friendly spaces, considering both native and non-native plants. To optimize the environment for pollinator bees, it's important to select the right plants. We have collected data on native and non-native plants and their impact on pollinator bees. By analyzing this data, we can recommend plants that create an ideal environment for pollinators.
+
+Our analysis focuses on understanding the preferences of native and non-native bee species, their specialized plant genus, nesting methods, and overall status. This information helps us identify the plants that best support the diverse needs of pollinator bees. Our recommendations prioritize plants that attract and support pollinator bees, ensuring a sustainable ecosystem. By selecting the right mix of native and non-native plants, we can create pollinator bee-friendly spaces that contribute to the local environment's health and biodiversity.Our goal is to provide practical and effective solutions for creating optimized pollinator bee-friendly spaces, promoting the preservation and enhancement of natural habitats.
